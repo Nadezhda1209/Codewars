@@ -1,7 +1,7 @@
 # Codewars
 Задачи, которые я выполнила
 
-*8key
+* 8key
 
 [Safen User Input Part I - htmlspecialchars](https://github.com/Nadezhda1209/pythonP/blob/master/8key/Safen_User_Input_Part_I-htmlspecialchars.md)
 
@@ -13,7 +13,7 @@
 
 [Reversed Words](https://github.com/Nadezhda1209/pythonP/blob/master/8key/Reversed_Words.md)
 
-*7key
+* 7key
 
 [You're a square!](https://github.com/Nadezhda1209/pythonP/blob/master/7key/You're_a_square.md)
 
